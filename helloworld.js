@@ -13,11 +13,11 @@ const listOfnames = ['allan', 'Betty'] // a list of strings
 
 
 // assignment
-// a variable which is constant and set its string to hello world
+// create a variable name hello which is constant and set it to a string called hello world
 
 // function for printing content is console.log
 console.log(' allan is here ');
 console.log(name)
 console.log(' sum of ages: ' + sum)
 // node is a runtime for executing javascript
-// To run script : node helloworld.js to execute your script
+// To run script from your terminal type: node helloworld.js 
