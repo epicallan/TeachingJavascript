@@ -1,0 +1,30 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "javascript tutorials for Alex",
+  "main": "functions-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fn-01.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicallan/TeachingJavascript.git"
+  },
+  "keywords": [
+    "tutorial",
+    "lessons"
+  ],
+  "author": "Allan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epicallan/TeachingJavascript/issues"
+  },
+  "homepage": "https://github.com/epicallan/TeachingJavascript#readme",
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0"
+  }
+}
