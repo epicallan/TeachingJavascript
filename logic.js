@@ -42,7 +42,7 @@ if (age === 10 && name === 'allan') {
   console.log('get lost')
 }
 
-if (age < 10 && name === 'allan') {
+if (age < 10 || name === 'allan') {
   console.log('thats the person we want')
 } else {
   console.log('get lost')
