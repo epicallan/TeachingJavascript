@@ -1,0 +1,15 @@
+{
+    "school": {
+        "location": "kampala",
+        "sections": ["A-level", "O-level"],
+        "students": [{
+                "name": "allan",
+                "age": 25
+            },
+            {
+                "name": "alex",
+                "age": 22
+            }
+        ]
+    }
+}
